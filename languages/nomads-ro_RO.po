@@ -1,0 +1,10 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: ro_RO\n"
+
+msgid "Welcome to Nomad's Theme!"
+msgstr "Bine ați venit la tema Nomad's!"
+
+msgid "Discover the new level of travel with us."
+msgstr "Descoperiți un nou nivel de călătorie cu noi."
